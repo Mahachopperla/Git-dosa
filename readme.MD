@@ -6,5 +6,5 @@ ghee
 
 ## karam-dosa
 batter
-karam
+Erra karam
 gheee
