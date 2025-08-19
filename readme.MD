@@ -1,6 +1,6 @@
-###Dosa Shop
+### Dosa Shop
 
-##Plain Dosa
+## Plain Dosa
 batter
 ghee
 
@@ -8,3 +8,8 @@ ghee
 batter
 Erra karam
 gheee
+
+## Egg Dosa
+batter
+masala
+2 eggs. karam , ghee
