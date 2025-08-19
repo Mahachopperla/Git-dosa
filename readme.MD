@@ -12,4 +12,4 @@ gheee
 ## Egg Dosa
 batter
 masala
-2 eggs. karam , ghee
+2 eggs, karam , ghee
